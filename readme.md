@@ -151,9 +151,9 @@ After studying the information about the API, I understood what the API is and w
 
 ## 2.4 Tasks
 
-### 2.4.1 "Social Network API"
+### 2.4.1 Social Network API
 
-After studying API Testing, I completed a practical task [(Social Network API)](https://github.com/LizaDoroshchenko/CV/tree/main/social-network-api), by creating my collection of tests in Postman. Using documentation ["SamuraiJS Social Network API"](https://social-network.samuraijs.com/docs#) I have tested several functions:
+After studying API Testing, I completed a practical task [Social Network API](https://github.com/LizaDoroshchenko/CV/tree/main/social-network-api), by creating my collection of tests in Postman. Using documentation ["SamuraiJS Social Network API"](https://social-network.samuraijs.com/docs#) I have tested several functions:
 
 1. View information about users (search for a user by name or id, search for multiple users, check specific pages);
 2. Registration in a social network;
