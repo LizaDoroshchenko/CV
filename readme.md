@@ -98,7 +98,7 @@ As part of the study of this block, I completed the following practical tasks: c
 
 ### 1.6.1 Test Hobbit
 
-[Test Hobbit](https://github.com/LizaDoroshchenko/CV/tree/main/test-hobbit) - is a small site with the ability to find out "How Much Of Bilbo Baggins Are You". The site consists of two pages, where the first page is designed as a test with riddles from the book "The Hobbit, or There and Back Again" and the ability to select and enter answers (using radio buttons and an input field), and there is also a link to the second page ( designed as a "РЕЗУЛЬТАТ ТЕСТА" button) and a "тёмная тема" button that allows you to change the color of the background and text of the page. By clicking on the link "РЕЗУЛЬТАТ ТЕСТА" you can view the result of passing the test and the attached image.
+[Test Hobbit](https://github.com/LizaDoroshchenko/CV/tree/main/test-hobbit) - is a small site with the ability to find out "How Much Of Bilbo Baggins Are You". The site consists of two pages, where the first page is designed as a test with riddles from the book "The Hobbit, or There and Back Again" and the ability to select and enter answers (using radio buttons and an input field), and there is also a link to the second page ( designed as a "РЕЗУЛЬТАТ ТЕСТА" button) and a "темная тема" button that allows you to change the color of the background and text of the page. By clicking on the link "РЕЗУЛЬТАТ ТЕСТА" you can view the result of passing the test and the attached image.
 
 ### 1.6.2 Calculator
 
