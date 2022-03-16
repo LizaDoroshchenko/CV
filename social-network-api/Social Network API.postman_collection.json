@@ -1,0 +1,138 @@
+{
+	"info": {
+		"_postman_id": "0e45490c-c899-442a-8ed4-1f06e96690b4",
+		"name": "Social Network API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Users",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://social-network.samuraijs.com/api/1.0/users?count=10&page=1",
+					"protocol": "https",
+					"host": [
+						"social-network",
+						"samuraijs",
+						"com"
+					],
+					"path": [
+						"api",
+						"1.0",
+						"users"
+					],
+					"query": [
+						{
+							"key": "count",
+							"value": "10"
+						},
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "term",
+							"value": "Liza_Doroshchenko",
+							"disabled": true
+						},
+						{
+							"key": "friend",
+							"value": "false",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Post auth",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"email\": \"liza.doroshchenko@gmail.com\", \"password\": \"12345678l\", \"rememberMe\": \"true\", \"captcha\": \"true\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://social-network.samuraijs.com/api/1.0/auth/login",
+					"protocol": "https",
+					"host": [
+						"social-network",
+						"samuraijs",
+						"com"
+					],
+					"path": [
+						"api",
+						"1.0",
+						"auth",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get auth",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://social-network.samuraijs.com/api/1.0/auth/me",
+					"protocol": "https",
+					"host": [
+						"social-network",
+						"samuraijs",
+						"com"
+					],
+					"path": [
+						"api",
+						"1.0",
+						"auth",
+						"me"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete my account",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"userId\": 22639}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://social-network.samuraijs.com/api/1.0/auth/login",
+					"protocol": "https",
+					"host": [
+						"social-network",
+						"samuraijs",
+						"com"
+					],
+					"path": [
+						"api",
+						"1.0",
+						"auth",
+						"login"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

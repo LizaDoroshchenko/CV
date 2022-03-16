@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <title>Test</title>
+
+    <link href="style-from-test.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet"
+          type="text/css">
+
+</head>
+
+
+<body>
+<div class="b1">
+    <h1> НА СКОЛЬКО ТЫ БИЛЬБО БЭГГИНС </h1>
+    <br><br>
+    <b>
+        1. Не отыскать её корней,<br> Верхушка выше тополей.<br> Всё круче вверх она идёт-<br> А не растёт.</b>
+    <br><br>
+    <input type="radio" name="answer1"> Гора<Br>
+    <input type="radio" name="answer1"> Работа<Br>
+    <input type="radio" name="answer1"> Прокрастинация<Br><br><br>
+
+</div>
+
+<div class="b2">
+    <b>
+        2. Без замка, без крышки<br> Сделан сундучок,<br> А внутри хранится<br> Золота кусок.</b>
+    <br><br>
+    <input type="radio" name="answer2"> Яйцо<Br>
+    <input type="radio" name="answer2"> Кольцо<Br>
+    <input type="radio" name="answer2"> Крыльцо<Br><br><br>
+
+</div>
+
+<div class="b3">
+    <b>
+        Не дышит, но живёт она,<br> Как смерть, нема и холодна;<br> Не пьёт, хотя в воде сидит,<br> В кольчуге, хоть и
+        не звенит.</b>
+    <br><br>
+
+    <p><b>Ваш ответ:</b><br>
+        <input type="text" size="20">
+    </p>
+
+</div>
+<br><br>
+<div>
+    <a href="answer.html" class="c">РЕЗУЛЬТАТ ТЕСТА</a>
+    <br><br><br>
+    <button class="button">темная тема</button>
+    <br><br>
+</div>
+<script>
+    document.querySelector('.button').onclick = function (tem) {
+        var background = document.querySelector('html')
+        var text1 = document.querySelector('.b1')
+        var text2 = document.querySelector('.b2')
+        var text3 = document.querySelector('.b3')
+        background.style.background = 'linear-gradient(to bottom,#483D8B,#4682B4)'
+        text1.style.color = '#E0FFFF'
+        text2.style.color = '#E0FFFF'
+        text3.style.color = '#E0FFFF'
+    }
+</script>
+
+</body>
+
+
+</html>

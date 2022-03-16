@@ -1,0 +1,68 @@
+html {
+    font-family: 'Open Sans Condensed', sans-serif;
+    background: linear-gradient(to bottom, #FFE4C4, #DCDCDC); /* Цвет фона */
+
+}
+
+div {
+    color: #483D8B;
+    text-shadow: 1px -1px 3px #8FBC8F; /* Параметры тени */
+    text-align: center;
+    font-size: 30px;
+    line-height: 1;
+    letter-spacing: 1px;
+
+}
+
+
+#my-id {
+    color: #CD5C5C;
+    text-shadow: 2px -2px 5px #FFA07A; /* Параметры тени */
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 3px;
+    padding: 20px 0;
+}
+
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.c {
+    font-size: 25px;
+    border: 4px double #8B008B; /* Рамка */
+    display: inline-block;
+    padding: 20px 60px; /* Поля */
+    text-decoration: none; /* Убимраем подчеркивание*/
+    background: linear-gradient(to bottom, #BC8F8F, #FFDEAD); /* Градиент */
+    color: #4B0082; /* Цвет текста */
+    position: center;
+
+}
+
+.c:hover {
+    box-shadow: 2px -2px 14px rgba(25, 25, 112, 0.8); /* Тень */
+    background: linear-gradient(to bottom, #FFA07A, #FFA500); /* Градиент */
+    color: #DC143C;
+}
+
+.button {
+    font-size: 15px;
+    border: 4px double #8B008B; /* Рамка */
+    display: inline-block;
+    padding: 5px 15px; /* Поля */
+    text-decoration: none; /* Убимраем подчеркивание*/
+    background: linear-gradient(to bottom, #BC8F8F, #FFDEAD); /* Градиент */
+    color: #4B0082; /* Цвет текста */
+    position: center;
+
+}
+
+.button:hover {
+    box-shadow: 2px -2px 14px rgba(25, 25, 112, 0.8); /* Тень */
+    background: linear-gradient(to bottom, #FFA07A, #FFA500); /* Градиент */
+    color: #DC143C;
+}
