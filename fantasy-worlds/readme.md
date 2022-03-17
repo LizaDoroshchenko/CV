@@ -24,7 +24,9 @@ ___
 ### 2.3  Test Cases 
 
 [Test Case 1](https://github.com/LizaDoroshchenko/CV/blob/main/fantasy-worlds/TestCase1.jpg)
+
 [Test Case 2](https://github.com/LizaDoroshchenko/CV/blob/main/fantasy-worlds/TestCase2.pdf)
+
 [Test Case 3](https://github.com/LizaDoroshchenko/CV/blob/main/fantasy-worlds/TestCase3.pdf)
 
 ### 2.4 Bug Reports
