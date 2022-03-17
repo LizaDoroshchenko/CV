@@ -11,20 +11,24 @@
 ___
 # 2. Results
 
-### 2.1 Use Cases
+### 2.1 Test Plan
 
+[Test Plan](https://github.com/LizaDoroshchenko/CV/blob/main/fantasy-worlds/TestPlan.pdf)
+
+### 2.2 Use Cases
+
+[Use Cases](https://github.com/LizaDoroshchenko/CV/blob/main/fantasy-worlds/UseCases.pdf)
 
 ![Use Cases!](UseCases.jpg)
 
-### 2.2  Test Cases example
+### 2.3  Test Cases 
 
-Test Case 1
+[Test Case 1](https://github.com/LizaDoroshchenko/CV/blob/main/fantasy-worlds/TestCase1.jpg)
+[Test Case 2](https://github.com/LizaDoroshchenko/CV/blob/main/fantasy-worlds/TestCase2.pdf)
+[Test Case 3](https://github.com/LizaDoroshchenko/CV/blob/main/fantasy-worlds/TestCase3.pdf)
 
-![Test case Cases1!](TestCase1.jpg)
+### 2.4 Bug Reports
 
-### 2.3 Bug Report example
+[Bug Reports](https://github.com/LizaDoroshchenko/CV/blob/main/fantasy-worlds/BugReport.jpg)
 
-Bug Report 1
-
-![Bug Repoet1!](BugReport.jpg)
 
