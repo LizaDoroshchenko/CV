@@ -1,8 +1,24 @@
-Self education report
+CV
 ===============
+
+# Intro
+
+The last few month I actively studying a new and very interesting for me Quality Assurance area. During self education I've read a lot of articles, several books, watched multiple courses and videos on YouTube. Also per each area I've done several practical tasks which can be found bellow.
+
+#### This repository represents my self-learning roadmap.
+
 <br>
 
-# 1. Web UI Technologies HTML, CSS, JS, Dev Tools
+# Tasks Report
+
+- Web UI Technologies HTML, CSS, JS, Dev Tools - [Test Hobbit](https://github.com/LizaDoroshchenko/CV/tree/main/test-hobbit), [Calculator](https://github.com/LizaDoroshchenko/CV/tree/main/calculator)
+- API Testing - [Social Network API](https://github.com/LizaDoroshchenko/CV/tree/main/social-network-api)
+- SQL -
+- Quality Assurance - [fantasy worlds](https://github.com/LizaDoroshchenko/CV/tree/main/fantasy-worlds)
+
+<br>
+
+# Self Education Report
 
 ## 1.1 HTML
 
@@ -90,7 +106,7 @@ As part of the study of this block, I completed the following practical tasks: c
 
 ### 1.6.1 Test Hobbit
 
-[Test Hobbit](https://github.com/LizaDoroshchenko/CV/tree/main/test-hobbit) - is a small site with the ability to find out "How Much Of Bilbo Baggins Are You". The site consists of two pages, where the first page is designed as a test with riddles from the book "The Hobbit, or There and Back Again" and the ability to select and enter answers (using radio buttons and an input field), and there is also a link to the second page ( designed as a "РЕЗУЛЬТАТ ТЕСТА" button) and a "тёмная тема" button that allows you to change the color of the background and text of the page. By clicking on the link "РЕЗУЛЬТАТ ТЕСТА" you can view the result of passing the test and the attached image.
+[Test Hobbit](https://github.com/LizaDoroshchenko/CV/tree/main/test-hobbit) - is a small site with the ability to find out "How Much Of Bilbo Baggins Are You". The site consists of two pages, where the first page is designed as a test with riddles from the book "The Hobbit, or There and Back Again" and the ability to select and enter answers (using radio buttons and an input field), and there is also a link to the second page ( designed as a "РЕЗУЛЬТАТ ТЕСТА" button) and a "темная тема" button that allows you to change the color of the background and text of the page. By clicking on the link "РЕЗУЛЬТАТ ТЕСТА" you can view the result of passing the test and the attached image.
 
 ### 1.6.2 Calculator
 
@@ -151,9 +167,9 @@ After studying the information about the API, I understood what the API is and w
 
 ## 2.4 Tasks
 
-### 2.4.1 "Social Network API"
+### 2.4.1 Social Network API
 
-After studying API Testing, I completed a practical task [(Social Network API)](https://github.com/LizaDoroshchenko/CV/tree/main/social-network-api), by creating my collection of tests in Postman. Using documentation ["SamuraiJS Social Network API"](https://social-network.samuraijs.com/docs#) I have tested several functions:
+After studying API Testing, I completed a practical task [Social Network API](https://github.com/LizaDoroshchenko/CV/tree/main/social-network-api), by creating my collection of tests in Postman. Using documentation ["SamuraiJS Social Network API"](https://social-network.samuraijs.com/docs#) I have tested several functions:
 
 1. View information about users (search for a user by name or id, search for multiple users, check specific pages);
 2. Registration in a social network;
