@@ -2,8 +2,8 @@ Self education report
 ===============
 # Intro
 
-The last few month I actively studing a new and very interesting for me Quality Assurance area.
-During self aducation I've read a lot of articles, several books, watched multiple cources and videos on YouTube.
+The last few month I actively studying a new and very interesting for me Quality Assurance area.
+During self education I've read a lot of articles, several books, watched multiple courses and videos on YouTube.
 Also per each area I've done several practical tasks which can be found bellow.
 
 #### This repository represents my self-learning roadmap.
