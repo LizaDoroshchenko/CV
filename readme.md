@@ -1,16 +1,24 @@
-Self education report
+CV
 ===============
+
 # Intro
 
-The last few month I actively studying a new and very interesting for me Quality Assurance area.
-During self education I've read a lot of articles, several books, watched multiple courses and videos on YouTube.
-Also per each area I've done several practical tasks which can be found bellow.
+The last few month I actively studying a new and very interesting for me Quality Assurance area. During self education I've read a lot of articles, several books, watched multiple courses and videos on YouTube. Also per each area I've done several practical tasks which can be found bellow.
 
 #### This repository represents my self-learning roadmap.
 
 <br>
 
-# 1. Web UI Technologies HTML, CSS, JS, Dev Tools
+# Tasks Report
+
+- Web UI Technologies HTML, CSS, JS, Dev Tools - [Test Hobbit](https://github.com/LizaDoroshchenko/CV/tree/main/test-hobbit), [Calculator](https://github.com/LizaDoroshchenko/CV/tree/main/calculator)
+- API Testing - [Social Network API](https://github.com/LizaDoroshchenko/CV/tree/main/social-network-api)
+- SQL -
+- Quality Assurance - [fantasy worlds](https://github.com/LizaDoroshchenko/CV/tree/main/fantasy-worlds)
+
+<br>
+
+# Self Education Report
 
 ## 1.1 HTML
 
