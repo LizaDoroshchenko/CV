@@ -55,13 +55,11 @@
 <script>
     document.querySelector('.button').onclick = function (tem) {
         var background = document.querySelector('html')
-        var text1 = document.querySelector('.b1')
-        var text2 = document.querySelector('.b2')
-        var text3 = document.querySelector('.b3')
         background.style.background = 'linear-gradient(to bottom,#483D8B,#4682B4)'
-        text1.style.color = '#E0FFFF'
-        text2.style.color = '#E0FFFF'
-        text3.style.color = '#E0FFFF'
+        var textElements = document.querySelectorAll(".b1")
+        for (const item of textElements){
+            item.style.color = '#E0FFFF'
+        }
     }
 </script>
 
