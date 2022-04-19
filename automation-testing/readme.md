@@ -71,4 +71,6 @@ site [TodoMVC](https://todomvc.com/examples/vanillajs/#/) testing its basic func
 
 All checks are executed in the Google Chrome browser.
 
+### Video playback of autotests is on YouTube
+
 [![TodoMVC Automated Test](https://github.com/LizaDoroshchenko/CV/blob/main/TodoMVC.png)](https://www.youtube.com/watch?v=L-dPsqjjyms "TodoMVC Automated Test")
