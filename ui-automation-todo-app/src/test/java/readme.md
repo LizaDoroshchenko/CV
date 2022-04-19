@@ -16,4 +16,3 @@ site [TodoMVC](https://todomvc.com/examples/vanillajs/#/) testing its core funct
 
 All checks are carried out in the Google Chrome browser.
 
-<video>https://github.com/LizaDoroshchenko/CV/blob/main/ui-automation-todo-app/src/test/java/TodoTest.webm</video>
