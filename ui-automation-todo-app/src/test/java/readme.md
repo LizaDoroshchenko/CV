@@ -16,3 +16,4 @@ site [TodoMVC](https://todomvc.com/examples/vanillajs/#/) testing its core funct
 
 All checks are carried out in the Google Chrome browser.
 
+Video playback of autotests - <oembed>https://www.youtube.com/watch?v=L-dPsqjjyms</oembed>
