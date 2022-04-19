@@ -386,7 +386,7 @@ used libraries such as TestNG, WebDriver and Bonigarcia.
 
 ### 8.4.1 Converter, Calculator, Go to school
 
-Studying the theoretical material, I performed several [practical tasks](),
+Studying the theoretical material, I performed several [practical tasks](https://github.com/LizaDoroshchenko/CV/tree/main/automation-testing/base),
 
 #### namely:
 
@@ -413,6 +413,8 @@ site [TodoMVC](https://todomvc.com/examples/vanillajs/#/) testing its basic func
 8. Checking the view of all completed items;
 
 All checks are executed in the Google Chrome browser.
+
+Video playback of autotests - https://www.youtube.com/watch?v=L-dPsqjjyms
 
 # 9. Future Steps
 
