@@ -398,7 +398,7 @@ Studying the theoretical material, I performed several [practical tasks](),
 
 ### 8.4.2 TodoMVC testing
 
-After solving a few small tasks, I decided to write real [automated tests](https://github.com/LizaDoroshchenko/CV/tree/main/ui-automation-todo-app/src/test/java/todo) for
+After solving a few small tasks, I decided to write real [automated tests](https://github.com/LizaDoroshchenko/CV/tree/main/ui-automation-todo-app/src/test/java) for
 site [TodoMVC](https://todomvc.com/examples/vanillajs/#/) testing its core functionality.
 
 #### List of checks:
