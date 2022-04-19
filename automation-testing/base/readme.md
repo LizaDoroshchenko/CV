@@ -1,6 +1,6 @@
 ## Converter, Calculator, Go to school
 
-Studying the theoretical material, I performed several [practical tasks](https://github.com/LizaDoroshchenko/CV/tree/main/automation-testing/base),
+Studying the theoretical material, I performed several practical tasks,
 
 #### namely:
 
