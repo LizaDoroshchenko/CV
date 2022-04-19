@@ -1,6 +1,6 @@
 ## TodoMVC testing
 
-After solving a few small tasks, I decided to write real [automated tests]() for
+After solving a few small tasks, I decided to write real [automated tests](https://github.com/LizaDoroshchenko/CV/tree/main/ui-automation-todo-app/src/test/java/todo) for
 site [TodoMVC](https://todomvc.com/examples/vanillajs/#/) testing its core functionality.
 
 #### List of checks:
