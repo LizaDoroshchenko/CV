@@ -4,10 +4,7 @@ CV
 # Intro
 
 The last few month I actively studying a new and very interesting for me Quality Assurance and Automated Quality Assurance areas. During self education I've read a lot of articles, several books, watched multiple courses and videos on YouTube. Also per each area I've done several practical tasks which can be found bellow.
-<<<<<<< HEAD
-=======
 
->>>>>>> 27b1044f0d212e637ca3dfe5dd07a9543eb2e436
 
 #### This repository represents my self-learning roadmap.
 
@@ -401,7 +398,7 @@ Studying the theoretical material, I performed several [practical tasks](),
 
 ### 8.4.2 TodoMVC testing
 
-After solving a few small tasks, I decided to write real [automated tests]() for
+After solving a few small tasks, I decided to write real [automated tests](https://github.com/LizaDoroshchenko/CV/tree/main/ui-automation-todo-app/src/test/java/todo) for
 site [TodoMVC](https://todomvc.com/examples/vanillajs/#/) testing its core functionality.
 
 #### List of checks:
