@@ -3,7 +3,8 @@ CV
 
 # Intro
 
-The last few month I actively studying a new and very interesting for me Quality Assurance area. During self education I've read a lot of articles, several books, watched multiple courses and videos on YouTube. Also per each area I've done several practical tasks which can be found bellow.
+The last few month I actively studying a new and very interesting for me Quality Assurance and Automated Quality Assurance areas. During self education I've read a lot of articles, several books, watched multiple courses and videos on YouTube. Also per each area I've done several practical tasks which can be found bellow.
+
 
 #### This repository represents my self-learning roadmap.
 
@@ -15,6 +16,7 @@ The last few month I actively studying a new and very interesting for me Quality
 - API Testing - [Social Network API](https://github.com/LizaDoroshchenko/CV/tree/main/social-network-api)
 - SQL - [SQL task](https://github.com/LizaDoroshchenko/CV/tree/main/sql)
 - Quality Assurance - [fantasy worlds](https://github.com/LizaDoroshchenko/CV/tree/main/fantasy-worlds)
+- Test Automation - [Automated tests for TodoMVC](), [Converter](), [Calculator](), [Go to school]()
 
 <br>
 
@@ -339,16 +341,81 @@ To design my self-education plan and post it on GitHub, I chose to use the Markd
 > - Article ["Что такое Markdown"](https://guides.hexlet.io/markdown/)
 > - Article ["Basic Syntax"](https://www.markdownguide.org/basic-syntax/)
 
-# 8. Future Steps
+# 8. Test Automation, Basic Programming
 
-## 8.1 Test Automation, Basic Programming
+## 8.1 Introduction to Automation
 
-In the future, I would like to delve into the study of automated testing, learn basic software tools, and learn how to create automated tests.
+Continuing self-education, I delved into the study of automated testing.
 
-## 8.2 Virtual Machines, Docker
+#### At the moment I have the following theoretical knowledge:
 
-I would also like to study information about virtual machines and Docker, how they work and what they are used for.
+1. What is automation and why is it needed;
+2. Which test cases should be automated;
+3. Benefits of test automation;
 
-## 8.3 Security Testing
+## 8.2 Java, Basic Programming
+
+I started to get acquainted with the Java object-oriented programming language.
+
+#### Now I know:
+
+1. What packages and classes are, how to create them;
+2. What does the class consist of (fields, methods);
+3. What the methods are, how to call them;
+4. What a variable is;
+5. What a constructor is;
+6. What are the types of data (int, double, boolean, String);
+7. Arithmetic operations;
+8. What conditional statements are (if... else);
+9. What loop is (for/while);
+10. What exceptions are, their types, exception handling;
+11. What access modifiers are;
+12. What inheritance is;
+
+I also know what Java libraries are, what they are for and how to use them. To implement my tests, I
+used libraries such as TestNG, WebDriver and Bonigarcia.
+
+## 8.3 Sources
+
+> - Article ["Java"](https://ru.wikipedia.org/wiki/Java)
+> - Tutorial ["Java Tutorial"](https://www.w3schools.com/java/)
+> - Tutorial ["Руководство по языку программирования Java"](https://metanit.com/java/tutorial/)
+> - Tutorial ["JavaRush"](https://javarush.ru/all-articles)
+
+## 8.4 Tasks
+
+### 8.4.1 Converter, Calculator, Go to school
+
+Studying the theoretical material, I performed several [practical tasks](),
+
+#### namely:
+
+1. [Converter]() that handles 3 types of currencies, and several [tests]() that check the functions of the converter.
+2. [Calculator]() which takes 2 numbers and adds them up. There are also a couple of simple [checks]() for the calculator.
+3. A [Go to school]() task whose conditions are: You need to create a class with a method to help
+   you decide whether to go to school. if the temperature is < -25 ℃, we don't go to school at all if the temperature is
+   -25 ..- 20 ℃, you can go if the path is < 1 km. To check this task, several [tests] () are also written.
+
+### 8.4.2 TodoMVC testing
+
+After solving a few small tasks, I decided to write real [automated tests]() for
+site [TodoMVC](https://todomvc.com/examples/vanillajs/#/) testing its core functionality.
+
+#### List of checks:
+
+1. Entering characters in the input field and checking the creation of the item;
+2. Checking the impossibility of creating an empty item;
+3. Checking the possibility of complete one item;
+4. Checking the possibility of complete all items;
+5. Checking the possibility to delete one item;
+6. Checking the possibility of deleting all completed items;
+7. Checking the view of all active items;
+8. Checking the view of all completed items;
+
+All checks are carried out in the Google Chrome browser.
+
+# 9. Future Steps
+
+## 9.1 Security Testing
 
 In my future work, I plan to study security testing, study the principles of testing, types of vulnerabilities, methods of security testing. I also want to learn how to apply this knowledge in practice.
