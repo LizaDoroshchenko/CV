@@ -412,7 +412,7 @@ site [TodoMVC](https://todomvc.com/examples/vanillajs/#/) testing its core funct
 7. Checking the view of all active items;
 8. Checking the view of all completed items;
 
-All checks are carried out in the Google Chrome browser.
+All checks are executed in the Google Chrome browser.
 
 # 9. Future Steps
 
