@@ -16,7 +16,7 @@ The last few month I actively studying a new and very interesting for me Quality
 - API Testing - [Social Network API](https://github.com/LizaDoroshchenko/CV/tree/main/social-network-api)
 - SQL - [SQL task](https://github.com/LizaDoroshchenko/CV/tree/main/sql)
 - Quality Assurance - [fantasy worlds](https://github.com/LizaDoroshchenko/CV/tree/main/fantasy-worlds)
-- Test Automation - [Automated tests for TodoMVC](https://github.com/LizaDoroshchenko/CV/tree/main/automation-testing/ui-automation-todo-app/src/test/java), [Converter](https://github.com/LizaDoroshchenko/CV/tree/main/automation-testing/base/src/main/java/org/converter), [Calculator](https://github.com/LizaDoroshchenko/CV/tree/main/automation-testing/base/src/main/java/org/calculator), [Go to school](https://github.com/LizaDoroshchenko/CV/tree/main/automation-testing/base/src/main/java/org/gotoschool)
+- Test Automation - [Automated tests for TodoMVC](https://github.com/LizaDoroshchenko/CV/tree/main/automation-testing/ui-automation-todo-app/src/test/java), [basic tasks](https://github.com/LizaDoroshchenko/CV/tree/main/automation-testing/base)
 
 <br>
 
