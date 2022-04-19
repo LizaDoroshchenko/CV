@@ -30,7 +30,7 @@ I started to get acquainted with the Java object-oriented programming language.
 12. What inheritance is;
 
 I also know what Java libraries are, what they are for and how to use them. To implement my tests, I
-used libraries such as TestNG, WebDriver and Bonigarcia.
+used libraries such as TestNG, WebDriver and Bonigarcia WebdriverManager.
 
 ## 8.3 TBD REST API Test Automation
 
