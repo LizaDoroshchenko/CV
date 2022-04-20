@@ -373,18 +373,20 @@ I started to get acquainted with the Java object-oriented programming language.
 12. What inheritance is;
 
 I also know what Java libraries are, what they are for and how to use them. To implement my tests, I
-used libraries such as TestNG, WebDriver and Bonigarcia.
+used libraries such as TestNG, WebDriver and Bonigarcia WebdriverManager.
 
-## 8.3 Sources
+## 8.3 TBD REST API Test Automation
+
+## 8.4 Sources
 
 > - Article ["Java"](https://ru.wikipedia.org/wiki/Java)
 > - Tutorial ["Java Tutorial"](https://www.w3schools.com/java/)
 > - Tutorial ["Руководство по языку программирования Java"](https://metanit.com/java/tutorial/)
 > - Tutorial ["JavaRush"](https://javarush.ru/all-articles)
 
-## 8.4 Tasks
+## 8.5 Tasks
 
-### 8.4.1 Converter, Calculator, Go to school
+### 8.5.1 Converter, Calculator, Go to school
 
 Studying the theoretical material, I performed several [practical tasks](https://github.com/LizaDoroshchenko/CV/tree/main/automation-testing/base),
 
@@ -396,7 +398,7 @@ Studying the theoretical material, I performed several [practical tasks](https:/
    you decide whether to go to school. if the temperature is < -25 ℃, we don't go to school at all if the temperature is
    -25 ..- 20 ℃, you can go if the path is < 1 km. To check this task, several [tests](https://github.com/LizaDoroshchenko/CV/tree/main/automation-testing/base/src/test/java/weathertest) are also written.
 
-### 8.4.2 TodoMVC testing
+### 8.5.2 TodoMVC testing
 
 After solving a few small tasks, I decided to write real [automated tests](https://github.com/LizaDoroshchenko/CV/tree/main/automation-testing/ui-automation-todo-app/src/test/java) for
 site [TodoMVC](https://todomvc.com/examples/vanillajs/#/) testing its basic functionality.
@@ -414,7 +416,9 @@ site [TodoMVC](https://todomvc.com/examples/vanillajs/#/) testing its basic func
 
 All checks are executed in the Google Chrome browser.
 
-Video playback of autotests - https://www.youtube.com/watch?v=L-dPsqjjyms
+### Video playback of autotests is on YouTube
+
+[![TodoMVC Automated Test](https://github.com/LizaDoroshchenko/CV/blob/main/TodoMVC.png)](https://www.youtube.com/watch?v=L-dPsqjjyms "TodoMVC Automated Test")
 
 # 9. Future Steps
 
