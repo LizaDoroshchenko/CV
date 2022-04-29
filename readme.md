@@ -15,7 +15,7 @@ The last few month I actively studying a new and very interesting for me Quality
 - Web UI Technologies HTML, CSS, JS, Dev Tools - [Test Hobbit](https://github.com/LizaDoroshchenko/CV/tree/main/test-hobbit), [Calculator](https://github.com/LizaDoroshchenko/CV/tree/main/calculator)
 - API Testing - [Social Network API](https://github.com/LizaDoroshchenko/CV/tree/main/social-network-api)
 - SQL - [SQL task](https://github.com/LizaDoroshchenko/CV/tree/main/sql)
-- Quality Assurance - [fantasy worlds](https://github.com/LizaDoroshchenko/CV/tree/main/fantasy-worlds)
+- Quality Assurance - [fantasy worlds](https://github.com/LizaDoroshchenko/CV/tree/main/fantasy-worlds), [Streaming Service](https://github.com/LizaDoroshchenko/CV/tree/main/streaming-service)
 - Test Automation - [Automated tests for TodoMVC](https://github.com/LizaDoroshchenko/CV/tree/main/automation-testing/ui-automation-todo-app/src/test/java), [basic tasks](https://github.com/LizaDoroshchenko/CV/tree/main/automation-testing/base)
 
 <br>
@@ -269,6 +269,24 @@ Having mastered the theoretical material, I completed the task [fantasy worlds](
 3. Conduct functional testing and UI testing of the site [Fantasy Worlds](https://fantasy-worlds.net/);
 4. Find bugs and include information about them in bug reports;
 5. Write several test cases;
+
+### 4.3.2 Streaming Service
+
+I performed [this task](https://github.com/LizaDoroshchenko/CV/tree/main/streaming-service) based on my experience in testing and using web services. To improve the quality of test scenarios and better understand the requirements, I created  [UI prototypes](https://github.com/LizaDoroshchenko/CV/tree/main/streaming-service/ui-prototype-design) of the future product.
+
+To create test cases, I used such test design techniques as equivalent partitioning, boundary value analysis, 
+[decision table](https://github.com/LizaDoroshchenko/CV/blob/main/streaming-service/Decision%20Table%20Block%202.%20User%20profile.pdf).
+
+#### Assignment
+
+The customer came to the company with the idea of repeating the success of the famous streaming service and trying to 
+create something similar for their local market.  You need to prepare for testing in advance by creating a suite of test
+cases to cover all the functionalities.
+
+The founder provided a [working diagram](https://github.com/LizaDoroshchenko/CV/blob/main/streaming-service/workflow-diagram.png) and a [scheme with logic](https://github.com/LizaDoroshchenko/CV/blob/main/streaming-service/Business%20logic%20scheme%20(streaming%20service).pdf) for each block. It’s the only documentation you have. 
+Unfortunately, there is no Business Analyst on the project, and the founder is not ready to give detailed clarifications 
+and answers to the questions. You need to design test scenarios based on your own experience 
+and understanding of the system.
 
 # 5. Project Management, Bug Tracking
 
