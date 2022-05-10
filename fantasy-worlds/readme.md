@@ -31,6 +31,6 @@ ___
 
 ### 2.4 Bug Reports
 
-[Bug Reports](https://github.com/LizaDoroshchenko/CV/blob/main/fantasy-worlds/BugReport.jpg)
+[Bug Reports](https://github.com/LizaDoroshchenko/CV/blob/main/fantasy-worlds/BugReport.pdf)
 
 
